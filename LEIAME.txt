@@ -1,0 +1,3 @@
+O projeto 'Country Searcher' consiste em um site onde você pesquisa por determinado país e recebe uma resposta de acordo com o nome do país digitado no campo de pesquisa.
+
+Para testar o projeto, basta instalar as bibliotecas e frameworks do arquivo 'requirements.txt' e rodar o arquivo 'main.py'.
